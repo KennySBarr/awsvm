@@ -44,7 +44,8 @@ AWS (Amazon Web Services) is a comprehensive and widely adopted cloud platform t
 - Go to the search bar at the top and search "IAM"
 - Select Users tab to the left 
 - You will need to name the user JohnDoe 
-- Then click create passwordd and follow the rules and unclick "User has to reset password on next login" 
+- Then click create passwordd
+-  Create a Custom password and follow the rules and unclick "User has to reset password on next login" 
 
  
 ![Screenshot 2024-12-04 143727](https://github.com/user-attachments/assets/fe05ddf6-bafa-43a4-9ef8-0cad535fc875)
