@@ -6,7 +6,7 @@
 
 </p>
 
-<h1>AWS Cloud </h1>
+<h1>AWS Cloud - Instance </h1>
 AWS (Amazon Web Services) is a comprehensive and widely adopted cloud platform that offers a variety of on-demand computing services, storage, networking, and analytics, enabling businesses to scale and innovate with flexibility and efficiency.
 
 <h2>Requirements</h2>
